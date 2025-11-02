@@ -1,5 +1,5 @@
 # odin-recipes
-## What the current project is?
+## Description
 This is a web development project for creating a simple recipe website.
 
 ## What skills you will have/ have demonstrated once you have completed it?
@@ -14,3 +14,12 @@ This is a web development project for creating a simple recipe website.
 - Use wget command to download images from a source url. 
 - Use sip -g pixelWidth -g pixelHeight filename.jpg command to Check image dimension (width, height) from the zsh for the downloaded images.
 - Save space by rm the downloaded images; Instead added source link in img tag.
+
+### Project structure
+.
+├── README.md
+├── index.html
+└── recipes
+    ├── afghani-kabuli-pulao.html
+    ├── ilish-bhaja.html
+    └── shorshe-ilish.html
