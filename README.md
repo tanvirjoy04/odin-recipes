@@ -1,6 +1,9 @@
 # odin-recipes
+**Project: Basic recipe website in HTML**
+This project is a practical exercise to apply my knowledge of HTML within the framework of [The Odin Project](https://www.theodinproject.com/) course.
+
 ## Description
-This is a web development project for creating a simple recipe website.
+This website is a collection of simple recipes, organized around a homepage ( index.html) which contains links to several recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
 
 ## What skills you will have/ have demonstrated once you have completed it?
 - Interconnect multiple web pages and home page.
