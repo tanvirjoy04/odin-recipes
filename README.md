@@ -16,10 +16,13 @@ Through this project, I demonstrate my ability to:
 - Apply a clear hierarchy and simple navigation.
 
 ### Project structure
-odin-recipes/
+
+```
+odin-recipes
 ├── README.md
 ├── index.html
 └── recipes
     ├── afghani-kabuli-pulao.html
     ├── ilish-bhaja.html
-    └── shorshe-ilish.html
+    └── shorshe-ilish.html    
+```
