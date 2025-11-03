@@ -1,6 +1,10 @@
 # odin-recipes
 **Project: Basic recipe website in HTML**
-This project is a practical exercise to apply my knowledge of HTML within the framework of [The Odin Project](https://www.theodinproject.com/) course.
+This project is a practical exercise to apply my knowledge of HTML within the framework of [The Odin Project](https://www.theodinproject.com/) course, including
+- Website structure
+- Headings, paragraphs, and lists
+- Images and links
+- Basic use of Git and GitHub
 
 ## Description
 This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
