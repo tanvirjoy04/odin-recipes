@@ -22,7 +22,7 @@ Each recipe page includes:
 No CSS or JavaScript is used at this stage — **HTML only**.
 
 ## Description
-This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several favourite dish recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
+This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several favourite dish recipe pages. Each recipe page details the ingredients, preparation steps, 1 image.
 
 ### Learning objectives
 Through this project, I demonstrate my ability to:
