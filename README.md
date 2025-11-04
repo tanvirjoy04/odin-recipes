@@ -6,6 +6,21 @@ This project is a practical exercise to apply my knowledge of HTML within the fr
 - Images and links
 - Basic use of Git and GitHub
 
+---
+## About the Project
+The website contains:
+- A homepage listing three recipes
+- Individual recipe pages
+
+Each recipe page includes:
+- A title
+- An image
+- A short description
+- Ingredients (unordered list)
+- Steps (ordered list)
+
+No CSS or JavaScript is used at this stage — **HTML only**.
+
 ## Description
 This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several favourite dish recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
 
