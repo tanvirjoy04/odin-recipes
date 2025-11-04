@@ -7,7 +7,7 @@ This project is a practical exercise to apply my knowledge of HTML within the fr
 - Basic use of Git and GitHub
 
 ## Description
-This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
+This website is a collection of simple recipes, organized around a homepage (`index.html`) which contains links to several favourite dish recipe pages. Each recipe page details the ingredients, preparation steps, and may include images or tips.
 
 ### Learning objectives
 Through this project, I demonstrate my ability to:
