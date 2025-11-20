@@ -1,0 +1,44 @@
+body{
+  border: solid black; 
+  font-size: 30px;
+}
+
+ul{ 
+  border: solid 5px cornsilk;
+  background-color: antiquewhite;
+}
+
+h1{
+  text-align: center;
+  background: gold;
+}
+
+li{
+  padding: 20px;
+  font-size: larger;
+  color: transparent;
+}
+
+.one{
+  text-align: right;
+}
+
+.two{
+  text-align: center;
+}
+
+.three{
+  text-align: left;
+}
+
+a{
+  color: chocolate;
+}
+
+li:hover{
+  background-color: greenyellow;
+}
+
+a:hover{
+  color: blue;
+}
