@@ -1,5 +1,6 @@
 # Odin Recipes Project
 [Reference](https://www.theodinproject.com/lessons/foundations-recipes)
+
 **Project: Basic recipe website in HTML**
 This project is a practical exercise to apply my knowledge of HTML within the framework of [The Odin Project](https://www.theodinproject.com/) course, including
 - Website structure
